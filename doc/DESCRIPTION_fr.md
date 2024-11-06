@@ -1,0 +1,1 @@
+Stremio est un centre multimédia moderne qui constitue une solution unique pour votre divertissement vidéo. Vous pouvez découvrir, regarder et organiser du contenu vidéo à partir de modules complémentaires faciles à installer.
