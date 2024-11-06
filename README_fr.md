@@ -21,17 +21,14 @@ Stremio est un centre multimédia moderne qui constitue une solution unique pour
 
 **Version incluse :** 5.0.0~ynh1
 
-**Démo :** <https://demo.example.com>
-
 ## Captures d’écran
 
 ![Capture d’écran de Stremio](./doc/screenshots/screenshot.png)
 
 ## Documentations et ressources
 
-- Site officiel de l’app : <https://example.com>
-- Documentation officielle utilisateur : <https://yunohost.org/apps>
-- Documentation officielle de l’admin : <https://yunohost.org/packaging_apps>
+- Site officiel de l’app : <https://www.stremio.com/>
+- Documentation officielle utilisateur : <https://stremio.zendesk.com/hc/en-us>
 - Dépôt de code officiel de l’app : <https://github.com/Stremio/stremio-web>
 - YunoHost Store : <https://apps.yunohost.org/app/stremio>
 - Signaler un bug : <https://github.com/YunoHost-Apps/stremio_ynh/issues>

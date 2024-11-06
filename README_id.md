@@ -20,17 +20,14 @@ Stremio is a modern media center that's a one-stop solution for your video enter
 
 **Versi terkirim:** 5.0.0~ynh1
 
-**Demo:** <https://demo.example.com>
-
 ## Tangkapan Layar
 
 ![Tangkapan Layar pada Stremio](./doc/screenshots/screenshot.png)
 
 ## Dokumentasi dan sumber daya
 
-- Website aplikasi resmi: <https://example.com>
-- Dokumentasi pengguna resmi: <https://yunohost.org/apps>
-- Dokumentasi admin resmi: <https://yunohost.org/packaging_apps>
+- Website aplikasi resmi: <https://www.stremio.com/>
+- Dokumentasi pengguna resmi: <https://stremio.zendesk.com/hc/en-us>
 - Depot kode aplikasi hulu: <https://github.com/Stremio/stremio-web>
 - Gudang YunoHost: <https://apps.yunohost.org/app/stremio>
 - Laporkan bug: <https://github.com/YunoHost-Apps/stremio_ynh/issues>
