@@ -13,10 +13,8 @@ maintainers = ["eric_G"]
 
 [upstream]
 license = "GPL-2.0"
-website = "https://example.com"
-demo = "https://demo.example.com"
-admindoc = "https://yunohost.org/packaging_apps"
-userdoc = "https://yunohost.org/apps"
+website = "https://www.stremio.com/"
+userdoc = "https://stremio.zendesk.com/hc/en-us"
 code = "https://github.com/Stremio/stremio-web"
 
 [integration]
