@@ -20,17 +20,14 @@ Stremio is a modern media center that's a one-stop solution for your video enter
 
 **Поставляемая версия:** 5.0.0~ynh1
 
-**Демо-версия:** <https://demo.example.com>
-
 ## Снимки экрана
 
 ![Снимок экрана Stremio](./doc/screenshots/screenshot.png)
 
 ## Документация и ресурсы
 
-- Официальный веб-сайт приложения: <https://example.com>
-- Официальная документация пользователя: <https://yunohost.org/apps>
-- Официальная документация администратора: <https://yunohost.org/packaging_apps>
+- Официальный веб-сайт приложения: <https://www.stremio.com/>
+- Официальная документация пользователя: <https://stremio.zendesk.com/hc/en-us>
 - Репозиторий кода главной ветки приложения: <https://github.com/Stremio/stremio-web>
 - Магазин YunoHost: <https://apps.yunohost.org/app/stremio>
 - Сообщите об ошибке: <https://github.com/YunoHost-Apps/stremio_ynh/issues>
