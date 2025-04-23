@@ -50,7 +50,8 @@ ram.runtime = "50M"
     url = "https://github.com/Stremio/stremio-web/releases/download/v5.0.0-beta.13/stremio-web.zip"
     sha256 = "1a5e6dcf7ee18965e4397b32e7ecd653bce275aa112aced65d6f4c1fd11f2399"
 
-    autoupdate.strategy = "latest_github_tag"
+    # Disabled for now because upstream has a weird versioning scheme, sets everything as 'beta' which is ignored by the autoupdater ...
+    # autoupdate.strategy = "latest_github_tag"
 
     [resources.system_user]
 
